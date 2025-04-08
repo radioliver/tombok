@@ -130,3 +130,6 @@ for (let index = 0; index < tomb.length ; index++) {
     }
 }
 console.log(atlagalatt);
+
+
+
